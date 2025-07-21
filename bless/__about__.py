@@ -7,9 +7,9 @@ __title__ = "BLESS"
 __summary__ = (
     "BLESS is an SSH Certificate Authority that runs as a AWS Lambda function and can be used to "
     "sign SSH public keys.")
-__uri__ = "https://github.com/Netflix/bless"
+__uri__ = "https://github.com/ferdin448/bless"
 
-__version__ = "0.4.0"
+__version__ = "0.5.0"
 
 __author__ = "The BLESS developers"
 __email__ = "security@netflix.com"
