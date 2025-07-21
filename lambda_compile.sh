@@ -1,6 +1,6 @@
 #!/bin/sh
 
-yum install -y python3.12
+yum install -y python312
 python3.12 -m venv /tmp/venv
 /tmp/venv/bin/pip install --upgrade pip setuptools
 /tmp/venv/bin/pip install -e .
